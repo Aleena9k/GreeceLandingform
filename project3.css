@@ -1,0 +1,48 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background: url(Image/Greece.jpg);
+    background-size: cover;
+    
+}
+.container{
+   
+    color: rgb(43, 9, 30);
+    position: absolute;
+    top: 26%;
+    left: 1%;
+}
+.container h1{
+   
+    font-size: 45px;
+    margin-bottom: 10px;
+    padding: 10px 0 ;
+}
+.box
+{
+    width: 100%;
+  
+}
+.box input
+{
+    width: 60%;
+    margin: 12px;
+    padding: 13px;
+    border: none;
+    outline: none;
+    color: black;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.btn
+{
+    justify-content: center;
+    align-items: center;
+    border-radius: 28px;
+    padding: 10px;
+    
+}
